@@ -29,7 +29,7 @@ The chatbot uses a dynamic system prompt to adapt its responses based on the cit
 - Generates responses using the Groq API with parameters such as model, max_tokens, and temperature for fine-tuning outputs.
 - Appends the AI's response to the chat history and returns it to the frontend.
   
-
+## Interface
 
 
 
