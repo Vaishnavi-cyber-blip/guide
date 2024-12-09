@@ -32,10 +32,8 @@ The chatbot uses a dynamic system prompt to adapt its responses based on the cit
 
 
 
-![Screenshot 2024-07-24 133250](https://github.com/user-attachments/assets/999de503-eb45-42e7-8224-73cfcea50597)
 
-
-
+![Screenshot 2024-07-30 211839](https://github.com/user-attachments/assets/c80f6083-0645-4cd4-acf4-25555d663e21)
 
 
 
